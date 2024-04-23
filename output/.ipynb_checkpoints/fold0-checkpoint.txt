@@ -1,0 +1,23 @@
+F1 score across fold: 0.629291250363426
+Cohen kappa score across fold: 0.8081845923157336
+Mean F1 score across 5 folds: 0.629291250363426
+Mean Cohen kappa score across 5 folds: 0.8081845923157336
+
+
+Training until validation scores don't improve for 75 rounds
+[25]	train's QWK: 0.740689	valid's QWK: 0.732811
+[50]	train's QWK: 0.787229	valid's QWK: 0.774255
+[75]	train's QWK: 0.806138	valid's QWK: 0.786839
+[100]	train's QWK: 0.819684	valid's QWK: 0.792929
+[125]	train's QWK: 0.829339	valid's QWK: 0.796496
+[150]	train's QWK: 0.83567	valid's QWK: 0.800073
+[175]	train's QWK: 0.842512	valid's QWK: 0.800952
+[200]	train's QWK: 0.84951	valid's QWK: 0.804157
+[225]	train's QWK: 0.855051	valid's QWK: 0.804454
+[250]	train's QWK: 0.859703	valid's QWK: 0.806285
+[275]	train's QWK: 0.864424	valid's QWK: 0.807499
+[300]	train's QWK: 0.868473	valid's QWK: 0.807022
+[325]	train's QWK: 0.873332	valid's QWK: 0.805978
+[350]	train's QWK: 0.877462	valid's QWK: 0.807352
+Early stopping, best iteration is:
+[287]	train's QWK: 0.866296	valid's QWK: 0.808185

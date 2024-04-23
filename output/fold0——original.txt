@@ -1,0 +1,22 @@
+F1 score across fold: 0.6024187108340782
+Cohen kappa score across fold: 0.7932033718791056
+Mean F1 score across 15 folds: 0.6304927672507239
+Mean Cohen kappa score across 15 folds: 0.8066764095678104
+
+
+F1 score across fold: 0.6130400295372862
+Cohen kappa score across fold: 0.7969203563030809
+fold 15
+[LightGBM] [Info] Using self-defined objective function
+Training until validation scores don't improve for 75 rounds
+[25]	train's QWK: 0.74802	valid's QWK: 0.742409
+[50]	train's QWK: 0.787893	valid's QWK: 0.767059
+[75]	train's QWK: 0.80703	valid's QWK: 0.776161
+[100]	train's QWK: 0.818519	valid's QWK: 0.786289
+[125]	train's QWK: 0.82753	valid's QWK: 0.788741
+[150]	train's QWK: 0.834602	valid's QWK: 0.789975
+[175]	train's QWK: 0.841492	valid's QWK: 0.789545
+[200]	train's QWK: 0.845918	valid's QWK: 0.791436
+Early stopping, best iteration is:
+[135]	train's QWK: 0.83119	valid's QWK: 0.793203
+Evaluated only: QWK

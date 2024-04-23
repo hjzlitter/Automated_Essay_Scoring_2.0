@@ -1,0 +1,4 @@
+F1 score across fold: 0.6024187108340782
+Cohen kappa score across fold: 0.7932033718791056
+Mean F1 score across 15 folds: 0.6304927672507239
+Mean Cohen kappa score across 15 folds: 0.8066764095678104
